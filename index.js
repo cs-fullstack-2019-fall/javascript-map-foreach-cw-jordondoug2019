@@ -18,6 +18,7 @@ while (userInput !=="q")
 
 // //Problem 2
 let strArray="A,B,C,D,E,F";
+// This is not a string array. It's just a string
  let newArray= strArray.toLowerCase();
 console.log(newArray);
 
